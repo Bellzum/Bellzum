@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://bellzum.github.io/umbhorn.u/](https://bellzum.github.io/umbhorn.u/)
 
-- 📫 How to reach me **www.linkedin.com/in/umbhorn-ungkulpasvich**
-
 - ⚡ Fun fact **Coffee in, confusion matrices out**
 
 <h3 align="left">Connect with me:</h3>
